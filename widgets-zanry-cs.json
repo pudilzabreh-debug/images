@@ -1,0 +1,1170 @@
+{
+  "exportType": "fusionWidgets",
+  "exportVersion": 1,
+  "widgets": [
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "hideTitle": true,
+              "id": "8BF04294-5E17-4A3F-AA76-78AEDCCB3F08",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/01-akcni-filmy.png",
+              "title": "Akční filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Action Movies",
+                    "listSlug": "popular-action-movies",
+                    "traktId": 33032919,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Action Shows",
+                    "listSlug": "popular-action-shows",
+                    "traktId": 33032916,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "9B217DE1-DC51-472A-9780-020713DC70D0",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/02-akcni-dobrodruzne-filmy.png",
+              "title": "Akční dobrodružné filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Action Adventures",
+                    "listSlug": "action-adventures",
+                    "traktId": 22032289,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "3D4255D5-E290-4348-BE6A-51CA5FED4985",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/03-akcni-thrillery.png",
+              "title": "Akční thrillery",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Action Thrillers",
+                    "listSlug": "action-thrillers",
+                    "traktId": 22032335,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "3102E44D-9E9A-47D6-9CE0-DCBD704D8E91",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/04-animovane-filmy-pro-dospele.png",
+              "title": "Animované filmy pro dospělé",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Adult Animation",
+                    "listSlug": "adult-animation",
+                    "traktId": 29542536,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "5909D07A-3E06-4421-9356-0DCEBCB6D114",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/05-dobrodruzne-filmy.png",
+              "title": "Dobrodružné filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Adventures",
+                    "listSlug": "adventures",
+                    "traktId": 22032399,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "EC6B7FC1-7CC8-47D1-9A2E-63B85923879A",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/06-filmy-o-mimozemstanech.png",
+              "title": "Filmy o mimozemšťanech",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Aliens & Monsters",
+                    "listSlug": "aliens-monsters",
+                    "traktId": 22034737,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "A5CB2CE7-E95B-48E1-846D-DE891A1676EC",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/07-animovane-komedie.png",
+              "title": "Animované komedie",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Animated Movies",
+                    "listSlug": "popular-animated-movies",
+                    "traktId": 33032925,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Animated Shows",
+                    "listSlug": "popular-animated-shows",
+                    "traktId": 33032922,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "2867A8F9-3DAD-4528-B2EB-73619FFB1EDF",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/08-animovane-filmy.png",
+              "title": "Animované filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Animated Movies",
+                    "listSlug": "popular-animated-movies",
+                    "traktId": 33032925,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Animated Shows",
+                    "listSlug": "popular-animated-shows",
+                    "traktId": 33032922,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "5FA73C08-A3E9-4FF0-839D-990A14D04FDF",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/09-anime.png",
+              "title": "Anime",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Animation/Anime Movies",
+                    "listSlug": "popular-animation-anime-movies",
+                    "traktId": 33032928,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Animation/Anime Shows",
+                    "listSlug": "popular-animation-anime-shows",
+                    "traktId": 33032927,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "6F72C1A6-3DD5-4AC9-A42B-614E5E133F19",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/10-experimentalni-animace.png",
+              "title": "Experimentální animace",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Stop Motion Animation",
+                    "listSlug": "stop-motion-animation",
+                    "traktId": 29542698,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "2CE9D9A7-A3A6-4E8C-9245-F69DEA8A496E",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/11-filmova-klasika.png",
+              "title": "Filmová klasika",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Cult Classics",
+                    "listSlug": "cult-classics",
+                    "traktId": 22037939,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "9CC9FF96-9A5B-4DF8-A406-56FF1F2D5C08",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/12-komedie.png",
+              "title": "Komedie",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Comedy Movies",
+                    "listSlug": "popular-comedy-movies",
+                    "traktId": 33032930,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Comedy Shows",
+                    "listSlug": "popular-comedy-shows",
+                    "traktId": 33032929,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "DA93EC45-63B1-4C4B-AE9B-B196956BAF9E",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/13-filmy-o-monstrech.png",
+              "title": "Filmy o monstrech",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Occult Horrors",
+                    "listSlug": "occult-horrors",
+                    "traktId": 25294423,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "F73A7B9D-1AAB-4B91-BA2A-676547D86DAC",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/14-kriminalni-filmy.png",
+              "title": "Kriminální filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Crime",
+                    "listSlug": "crime",
+                    "traktId": 20770341,
+                    "username": "garycrawfordgc"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Crime Shows",
+                    "listSlug": "crime-shows",
+                    "traktId": 20772104,
+                    "username": "garycrawfordgc"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "76A75195-C956-4B98-8716-DB78641985E4",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/15-temna-fantasy.png",
+              "title": "Temná fantasy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Dark Fantasy Movies",
+                    "listSlug": "dark-fantasy-movies",
+                    "traktId": 25292649,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "3505FADF-33F9-4993-B807-1398D7820831",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/16-katastroficke-filmy.png",
+              "title": "Katastrofické filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Disaster Movies",
+                    "listSlug": "disaster-movies",
+                    "traktId": 29003154,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "33A51246-37CB-4A08-887B-EDBD6D08F95B",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/17-dokumentarni-filmy.png",
+              "title": "Dokumentární filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Documentary Movies",
+                    "listSlug": "popular-documentary-movies",
+                    "traktId": 33123349,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Documentary Shows",
+                    "listSlug": "popular-documentary-shows",
+                    "traktId": 33123359,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "07948710-CE33-41DA-B504-1409F72EFA60",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/18-dramata.png",
+              "title": "Dramata",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Drama Movies",
+                    "listSlug": "popular-drama-movies",
+                    "traktId": 33032935,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Drama Shows",
+                    "listSlug": "popular-drama-shows",
+                    "traktId": 33032934,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "01B9EA3C-F4F0-4ED3-A05E-3CD29396B7C5",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/19-dystopicke-filmy.png",
+              "title": "Dystopické filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Dystopian Future",
+                    "listSlug": "dystopian-future",
+                    "traktId": 29006737,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "DF29AB75-C31F-48CE-87D4-DD5CE2860143",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/20-rodinne-filmy.png",
+              "title": "Rodinné filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Family Movies",
+                    "listSlug": "family-movies",
+                    "traktId": 22032854,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "011A7456-38C4-4708-8FCB-6B1D695D8907",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/21-fantasy.png",
+              "title": "Fantasy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Fantasy Movies",
+                    "listSlug": "fantasy-movies",
+                    "traktId": 22033383,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "624780AB-985B-46CE-9215-6BE293C23E62",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/22-dobrodruzne-fantasy.png",
+              "title": "Dobrodružné fantasy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Action Fantasy",
+                    "listSlug": "action-fantasy",
+                    "traktId": 22033076,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "4AA2A70D-E001-459F-8883-BC9E45670853",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/23-animovane-klasiky.png",
+              "title": "Animované klasiky",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Hand-drawn Animation",
+                    "listSlug": "hand-drawn-animation",
+                    "traktId": 29542636,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "7495748D-1980-455A-93F9-62144315F328",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/24-drsne-westerny.png",
+              "title": "Drsné westerny",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Neo-Western",
+                    "listSlug": "neo-western",
+                    "traktId": 30751117,
+                    "username": "MadMapper"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "70F84B24-BEF9-4983-A025-ED13EFB481D1",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/25-namorni-dobrodruzne-filmy.png",
+              "title": "Námořní dobrodružné filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Sea Adventures",
+                    "listSlug": "sea-adventures",
+                    "traktId": 29190890,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "9BA8CF55-C111-4AFD-A374-07A1EC5B96CA",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/26-historicke-filmy.png",
+              "title": "Historické filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Directory of World Cinema: American Hollywood",
+                    "listSlug": "directory-of-world-cinema-american-hollywood",
+                    "traktId": 801510,
+                    "username": "sp1ti"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "414C3A8A-0291-4149-83F9-FD75A2493B7F",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/27-horory.png",
+              "title": "Horory",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Horror Movies",
+                    "listSlug": "popular-horror-movies",
+                    "traktId": 33032936,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Horror Shows",
+                    "listSlug": "popular-horror-shows",
+                    "traktId": 33032939,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "BD093160-F55F-41FE-BDA5-E61A5B009C9D",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/28-nezavisle-filmy.png",
+              "title": "Nezávislé filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Indie Movies",
+                    "listSlug": "indie-movies",
+                    "traktId": 32356098,
+                    "username": "pastican"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "C8BF20D2-3E5C-4D17-BD6A-88D9940D150D",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/29-zahranicni-filmy.png",
+              "title": "Zahraniční filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Critically Acclaimed Foreign Movies",
+                    "listSlug": "critically-acclaimed-foreign-movies",
+                    "traktId": 22038460,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "90C2D4EB-0078-4C49-91B5-FE7DE89C7183",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/30-filmy-pro-deti.png",
+              "title": "Filmy pro děti",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Trending Kids Movies",
+                    "listSlug": "trending-kids-movies",
+                    "traktId": 33032833,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Trending Kids Shows",
+                    "listSlug": "trending-kids-shows",
+                    "traktId": 30828731,
+                    "username": "tvgeniekodi"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "E8E105F7-8F66-4214-BCE6-ABC56193B591",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/31-vzdelavaci-filmy-pro-deti.png",
+              "title": "Vzdělávací filmy pro děti",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "History & Politics",
+                    "listSlug": "history-politics",
+                    "traktId": 30683818,
+                    "username": "enverkolsuzoglu"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "A1F4C528-3274-48CF-9DAB-2F0D833F0463",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/32-filmy-o-pratelskych-priserkach.png",
+              "title": "Filmy o přátelských příšerkách",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Animal Tales",
+                    "listSlug": "animal-tales",
+                    "traktId": 25294772,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "1D33CC96-6295-4697-8602-B5EAEE339EF5",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/33-hudebni-dokumenty.png",
+              "title": "Hudební dokumenty",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Music",
+                    "listSlug": "music",
+                    "traktId": 33688283,
+                    "username": "Kirky62"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "3424578D-9EF1-4A42-BBB2-013978CC4A45",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/34-muzikaly-a-hudebni-filmy.png",
+              "title": "Muzikály a hudební filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Music (Movies)",
+                    "listSlug": "music-movies",
+                    "traktId": 32946423,
+                    "username": "jiobiee"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "7452A28B-BAAC-4DF9-8F20-E7AB85BA4A99",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/35-filmy-o-mytech-a-legendach.png",
+              "title": "Filmy o mýtech a legendách",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Myths and Legends",
+                    "listSlug": "myths-and-legends",
+                    "traktId": 2287019,
+                    "username": "kristaeglover"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "314F6333-008C-4597-AE78-EDBACBA97B12",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/36-prirodopisne-dokumenty.png",
+              "title": "Přírodopisné dokumenty",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Nature Shows",
+                    "listSlug": "top-nature-shows",
+                    "traktId": 30546891,
+                    "username": "tvgeniekodi"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "9F8DDF91-0F28-477A-980B-D0347CE6543F",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/37-psychologicke-horory.png",
+              "title": "Psychologické horory",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Psychological Thrillers",
+                    "listSlug": "psychological-thrillers",
+                    "traktId": 21112021,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "9AF0572F-7AB8-44CA-BE4F-1DDEFF2F349F",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/38-reality-show.png",
+              "title": "Reality show",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Reality Shows",
+                    "listSlug": "popular-reality-shows",
+                    "traktId": 33123585,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "BE3250B0-88F5-40AE-9DFE-6D11781692CA",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/39-filmy-o-robotech-a-umele-inteligenci.png",
+              "title": "Filmy o robotech a umělé inteligenci",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Artificial Intelligence",
+                    "listSlug": "artificial-intelligence",
+                    "traktId": 27251319,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "AD7593AC-440B-44CD-999F-E9CCA575138A",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/40-romanticke-filmy.png",
+              "title": "Romantické filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Romance Movies",
+                    "listSlug": "popular-romance-movies",
+                    "traktId": 33132644,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Romance Shows",
+                    "listSlug": "popular-romance-shows",
+                    "traktId": 33132723,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "9C3C2050-5874-4695-8FF1-6CB5159A08C3",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/41-sci-fi.png",
+              "title": "Sci-fi",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Sci-Fi Movies",
+                    "listSlug": "popular-sci-fi-movies",
+                    "traktId": 33032944,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Sci-Fi Shows",
+                    "listSlug": "popular-sci-fi-shows",
+                    "traktId": 33032946,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "16CBA58C-311B-47CC-9B06-9AC453F0B413",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/42-kratkometrazni-filmy.png",
+              "title": "Krátkometrážní filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Short Films…",
+                    "listSlug": "short-films",
+                    "traktId": 33531583,
+                    "username": "JustFrank"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "34373C3C-C1CD-41F0-A578-9C4B0FB3326E",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/43-vesmirna-sci-fi.png",
+              "title": "Vesmírná sci-fi",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Astronomy & Space",
+                    "listSlug": "astronomy-space",
+                    "traktId": 20709064,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "7C63131C-E66B-400F-AC65-26A9A77A8966",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/44-spionazni-filmy.png",
+              "title": "Špionážní filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Spy & Espionage Movies",
+                    "listSlug": "spy-espionage-movies",
+                    "traktId": 27251299,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "55D7A5EF-45F1-46D9-B3A2-597085F5226D",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/45-extremni-horory.png",
+              "title": "Extrémní horory",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Supernatural Horrors",
+                    "listSlug": "supernatural-horrors",
+                    "traktId": 29003049,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "2BD36C38-7E4A-4625-B759-88A5FF12BFD9",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/46-superhrdinske-filmy.png",
+              "title": "Superhrdinské filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Superhero Movies",
+                    "listSlug": "superhero-movies",
+                    "traktId": 25287616,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "85B9757E-1253-491E-8067-107E5703177A",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/47-dojemna-dramata.png",
+              "title": "Dojemná dramata",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Melodramas",
+                    "listSlug": "melodramas",
+                    "traktId": 25294311,
+                    "username": "rizreflects"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "5AED48FB-4FBC-404B-809C-FB0523592292",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/48-technologicke-thrillery.png",
+              "title": "Technologické thrillery",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Recommended Techno & Cyber Thrillers",
+                    "listSlug": "recommended-techno-cyber-thrillers",
+                    "traktId": 33186386,
+                    "username": "acanas"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "3E1D726B-2AB5-409A-8AAE-43F59C4F8DB3",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/49-thrillery.png",
+              "title": "Thrillery",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Thriller Movies",
+                    "listSlug": "popular-thriller-movies",
+                    "traktId": 33032952,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular Thriller Shows",
+                    "listSlug": "popular-thriller-shows",
+                    "traktId": 33032950,
+                    "username": "snoak"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "A358CB0C-5538-4699-B6A0-ABE9A3D63395",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/50-filmy-o-hledani-pokladu.png",
+              "title": "Filmy o hledání pokladů",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Treasure Hunts",
+                    "listSlug": "treasure-hunts",
+                    "traktId": 25761060,
+                    "username": "WayneCity"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "BD7FBCA0-1B00-4654-9927-5B9E8949C896",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/51-retro-horory.png",
+              "title": "Retro horory",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "VHS Nightmares",
+                    "listSlug": "vhs-nightmares",
+                    "traktId": 33606804,
+                    "username": "MMagTech"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "0C745A65-C565-4BF9-92F9-BDF9D663921E",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/52-valecne-filmy.png",
+              "title": "Válečné filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "War",
+                    "listSlug": "war",
+                    "traktId": 20770418,
+                    "username": "garycrawfordgc"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Popular War Shows",
+                    "listSlug": "popular-war-shows",
+                    "traktId": 33763475,
+                    "username": "Azodath"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "CFF8AB44-BB09-4543-8119-7B794477CA56",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/53-westerny.png",
+              "title": "Westerny",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top Westerns",
+                    "listSlug": "top-westerns",
+                    "traktId": 30548156,
+                    "username": "tvgeniekodi"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "C22CE381-E960-43F7-87E5-5552651C88FF",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/54-detektivni-filmy.png",
+              "title": "Detektivní filmy",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Whodunit?",
+                    "listSlug": "whodunit",
+                    "traktId": 32607220,
+                    "username": "J-Cao"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Cozy Mysteries / whodunit / Cozies / family friendly (? *) mystery movies and shows",
+                    "listSlug": "cozy-mysteries-whodunit-cozies-family-friendly-mystery-movies-and-shows",
+                    "traktId": 26925658,
+                    "username": "Midnitewolf"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "CCF42F83-F3C9-4EFC-9169-051C71BFD71F",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/55-komedie-z-pracovniho-prostredi.png",
+              "title": "Komedie z pracovního prostředí",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Top 20 Workplace Comedies",
+                    "listSlug": "top-20-workplace-comedies",
+                    "traktId": 9834543,
+                    "username": "jarvis-8243417"
+                  }
+                }
+              ]
+            },
+            {
+              "hideTitle": true,
+              "id": "8595D332-5C7F-4005-A7E0-9ACC9B53806F",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/pudilzabreh-debug/images/main/56-zombie-horory.png",
+              "title": "Zombie horory",
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Zombie Movies",
+                    "listSlug": "zombie-movies",
+                    "traktId": 33136385,
+                    "username": "emsishere"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Zombie Shows",
+                    "listSlug": "zombie-shows",
+                    "traktId": 32149974,
+                    "username": "QCNate"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "id": "collection.0060F77A-A8A5-4E12-B5CB-6FA69C73B28B",
+      "title": "Žánry",
+      "type": "collection.row"
+    }
+  ]
+}
